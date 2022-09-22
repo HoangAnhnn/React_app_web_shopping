@@ -1,0 +1,15 @@
+export const SHOW_PRODUCT = 'SHOW_PRODUCT';
+export const HIDE_PRODCUT = 'HIDE_PRODCUT';
+export const SHOW_NOTIFY = 'SHOW_NOTIFY';
+export const HIDE_NOTIFY = 'HIDE_NOTIFY';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const SHOPTING_CART = 'SHOPTING_CART';
+export const REMOVE_PRODUCT = 'REMOVE_PRODUCT';
+export const EDIT_PRODUCT = 'EDIT_PRODUCT';
+export const BUY_PRODUCT = 'BUY_PRODUCT';
+export const CHOOSE_ROUTER = 'CHOOSE_ROUTER';
+export const NOTIFY_BUY = 'Your order has been accepted, please wait for the confirmation email';
+export const NOTIFY_ADD_CART = 'product add to cart success';
+export const BUY_NOTIFY = 'BUY_NOTIFY';
+export const SHOW_SEARCH = 'SHOW_SEARCH';
+export const HIDE_SEARCH = 'HIDE_SEARCH';

@@ -1,0 +1,43 @@
+.slider {
+    width: 100vw;
+    height: 100vh;
+    img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+    .title {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 5rem;
+        z-index: 10;
+        color: #fff;
+        text-align: left;
+        h3 {
+            font-size: 2.8rem;
+            color: var(--color-text);
+            transition: all 0.3s linear;
+        }
+        h2 {
+            font-family: lato;
+            color: var(--color-text);
+            padding: 20px 0 44px 0;
+            font-size: 6.3rem;
+            text-shadow: 1px 1px 1px #fff;
+        }
+    }
+    .btn-slider {
+        color: #fff;
+        transition: all 0.3s linear;
+        &:hover {
+            background-color: #222;
+        }
+    }
+}
+@media screen and (max-width: 1440px) {
+    .title {
+        padding-left: 50px;
+    }
+}
