@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6444c50f.css",
+    "main.js": "./static/js/main.129b3b7f.js",
+    "static/js/787.29e804cc.chunk.js": "./static/js/787.29e804cc.chunk.js",
+    "static/media/PlayfairDisplay-Bold.ttf": "./static/media/PlayfairDisplay-Bold.60d3f992e85f8e17f419.ttf",
+    "static/media/about-02.jpg": "./static/media/about-02.07e8f5b61ea46af3915f.jpg",
+    "static/media/about-01.jpg": "./static/media/about-01.bea3996df7086c73950f.jpg",
+    "static/media/bg-02.jpg": "./static/media/bg-02.c00b6c227f70aa06cf6a.jpg",
+    "static/media/contact-img.jpg": "./static/media/contact-img.76018b32942ab654f48e.jpg",
+    "static/media/logo.png": "./static/media/logo.f2e5895f3c274966aac0.png",
+    "index.html": "./index.html",
+    "main.6444c50f.css.map": "./static/css/main.6444c50f.css.map",
+    "main.129b3b7f.js.map": "./static/js/main.129b3b7f.js.map",
+    "787.29e804cc.chunk.js.map": "./static/js/787.29e804cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6444c50f.css",
+    "static/js/main.129b3b7f.js"
+  ]
+}
